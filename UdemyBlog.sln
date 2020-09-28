@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K02.ExtensionMethod", "K02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K03.Delegeler", "K03.Delegeler\K03.Delegeler.csproj", "{BF7F2E93-7E58-4E04-B095-0014A5F0B18C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K04.ActionDeleges", "K04.ActionDeleges\K04.ActionDeleges.csproj", "{1C8B6AC7-F4F6-4A34-96BB-A4D96A7D07EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BF7F2E93-7E58-4E04-B095-0014A5F0B18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF7F2E93-7E58-4E04-B095-0014A5F0B18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF7F2E93-7E58-4E04-B095-0014A5F0B18C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8B6AC7-F4F6-4A34-96BB-A4D96A7D07EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8B6AC7-F4F6-4A34-96BB-A4D96A7D07EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8B6AC7-F4F6-4A34-96BB-A4D96A7D07EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8B6AC7-F4F6-4A34-96BB-A4D96A7D07EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
